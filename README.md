@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Reactjs and Node.js
 <br></br>
-<div>
+<div display='flex'>
   <a href="https://github.com/MP-oliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MP-oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MP-oliveira&layout=compact&langs_count=10&theme=dark"/>
